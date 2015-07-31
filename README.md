@@ -1,8 +1,8 @@
 # DotFiles
 
 ##Install:
-[i3-gaps](https://aur.archlinux.org/packages/i3-gaps-git/)
-[bitmap-fonts](https://github.com/Tecate/bitmap-fonts)
+ - [i3-gaps](https://aur.archlinux.org/packages/i3-gaps-git/)
+ - [bitmap-fonts](https://github.com/Tecate/bitmap-fonts)
 
 ##Software:
  - mpd/ncmpcpp
