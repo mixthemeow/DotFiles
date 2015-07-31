@@ -1,0 +1,60 @@
+urxvt*cursorBlink:		true
+urxvt*scrollBar:		false
+urxvt*depth:			32 
+urxvt*internalBorder: 		5
+urxvt*dynamicColors: on
+urxvt.urgentOnBell:  true
+urxvt*cursorUnderline: 1
+urxvt*letterspace: -5
+
+URxvt*font:                                     xft:tewi:hinting=false:pixelsize=12:antialias=false
+URxvt*boldFont:                                 xft:tewi:style=bold:hinting=true:pixelsize=12:antialias=false
+URxvt*italicFont:                               xft:tewi:style=italic:hinting=true:pixelsize=12:antialias=false
+URxvt*boldItalicFont:                           xft:tewi:style=bolditalic:hinting=true:pixelsize=12:antialias=false
+
+Xft.antialias: 1
+Xft.autohint: 0
+Xft.dpi: 96
+Xft.hinting: 1
+Xft.hintstyle: hintfull
+Xft.lcdfilter: lcddefault
+Xft.rgba: rgb
+
+! special
+*.foreground:   #9b9081
+*.background:   #181b20
+*.cursorColor:  #9b9081
+
+! black
+*.color0:       #353535
+*.color8:       #5f5f5f
+
+! red
+*.color1:       #744b40
+*.color9:       #785850
+
+! green
+*.color2:       #6d6137
+*.color10:      #6f6749
+
+! yellow
+*.color3:       #765636
+*.color11:      #776049
+
+! blue
+*.color4:       #61564b
+*.color12:      #696057
+
+! magenta
+*.color5:       #6b4a49
+*.color13:      #6f5a59
+
+! cyan
+*.color6:       #435861
+*.color14:      #525f66
+
+! white
+*.color7:       #b3b3b3
+*.color15:      #cdcdcd
+
+
