@@ -186,7 +186,7 @@ bar {
 	}
 }
 
-assign [class="Steam"] 3
+#assign [class="Steam"] 3
 
 exec feh --bg-tile ~/Pictures/Wallpapers/dualwall.jpg
 exec --no-startup-id mpd
